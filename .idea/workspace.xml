@@ -144,7 +144,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="272" />
     <option name="y" value="32" />
     <option name="width" value="1440" />
@@ -194,6 +194,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
@@ -315,8 +316,16 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="listycity_in_app - 2019.10.31 at 17h 58m 16s.xml">
+      <configuration name="listycity in app" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="CityListTest - 2019.10.31 at 17h 58m 26s.xml">
+      <configuration name="CityListTest" configurationId="AndroidJUnit" />
+    </history-entry>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" visible="true" weight="0.20067114" />
